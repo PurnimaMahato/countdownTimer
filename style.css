@@ -142,12 +142,12 @@ h3 {
 
   }
 }
-@media (max-width: 400px){
+@media (max-width: 460px){
   h1{
     font-size: 30px;
   }
   h2{
-    font-size: 30px;
+    font-size: 40px;
   }
   .display {
     width: 100%;
@@ -170,9 +170,10 @@ h3 {
 
   .card {
     width: 90%;
-    border-radius: 10px;
-    padding-bottom:50px;
+    border-radius: 30px;
+    padding-bottom:-60px;
     padding-top: 60px;
+    margin-top: 50px;
   
   }
 }
